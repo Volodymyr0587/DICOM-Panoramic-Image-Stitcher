@@ -26,8 +26,9 @@ pip install -r requirements.txt
 
 1. Clone this repository:
 
-```git clone https://github.com/Volodymyr0587/DICOM-Panoramic-Image-Stitcher```
-```cd dicom-panoramic-stitcher```
+- ```git clone https://github.com/Volodymyr0587/DICOM-Panoramic-Image-Stitcher```
+
+- ```cd dicom-panoramic-stitcher```
 
 2. Place your DICOM files in the same directory or update their paths in the script.
 
